@@ -3,8 +3,8 @@ import { create } from '@storybook/theming';
 export default create({
   base: 'light',
 
-  colorPrimary: 'deepskyblue',
-  colorSecondary: 'deepskyblue',
+  colorPrimary: '#00FFA2',
+  colorSecondary: '#004466',
 
   // UI
   appBg: 'white',
@@ -21,9 +21,9 @@ export default create({
   textInverseColor: 'rgba(255,255,255,0.9)',
 
   // Toolbar default and active colors
-  barTextColor: 'silver',
+  barTextColor: 'black',
   barSelectedColor: 'black',
-  barBg: 'deepskyblue',
+  barBg: 'silver',
 
   // Form colors
   inputBg: 'white',
