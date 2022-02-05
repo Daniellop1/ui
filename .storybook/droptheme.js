@@ -8,8 +8,8 @@ export default create({
 
   // UI
   appBg: 'white',
-  appContentBg: 'silver',
-  appBorderColor: 'grey',
+  appContentBg: 'white',
+  appBorderColor: 'white',
   appBorderRadius: 4,
 
   // Typography
@@ -32,6 +32,6 @@ export default create({
   inputBorderRadius: 4,
 
   brandTitle: 'Dglobal UI',
-  brandUrl: 'https://ui.daniellop.me',
+  brandUrl: '#',
   brandImage: 'http://cdn.daniellop.me/ui.png',
 });
