@@ -32,6 +32,5 @@ export default create({
   inputBorderRadius: 4,
 
   brandTitle: 'Dglobal UI',
-  brandUrl: '#',
   brandImage: 'http://cdn.daniellop.me/ui.png',
 });
