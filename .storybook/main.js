@@ -8,7 +8,8 @@ module.exports = {
     "@storybook/addon-essentials",
     "@storybook/addon-a11y",
     "@storybook/addon-storysource",
-    "@geometricpanda/storybook-addon-badges"
+    "@geometricpanda/storybook-addon-badges",
+    "@storybook/addon-interactions"
   ],
   "framework": "@storybook/react"
 }

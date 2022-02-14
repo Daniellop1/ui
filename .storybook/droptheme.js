@@ -33,4 +33,5 @@ export default create({
 
   brandTitle: 'Dglobal UI',
   brandImage: 'http://cdn.daniellop.me/ui.png',
+  
 });
